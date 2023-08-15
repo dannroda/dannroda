@@ -1,8 +1,8 @@
 # Hello! I'm Daniel - aka [Dann/DTO](https://dann.com.ar) (Site = WIP)
-## Status: Looking for a job.
+## Status: Working on a Dungeon Crawler Project.
 ## I'm a Developer who persues a carreer as Game Developer!
-- I'm currently learning Unity Engine and Blender!
-- I'm working on my personal site/portfolio by using SvelteKit, TailwindCSS, daisyUI, Ghost and some custom NodeJS tools!
+- It's hard to fight the urge to create Godot Plugins (GDExtension)
+- I'm working on my personal site/portfolio!
 - I have a decent experience with Godot 4, Photoshop, OBS Studio
 - Fun Fact: I've been maintaining WordPress Sites for 10+ years.
 - Future Goals: Learn to no overscope things
@@ -24,7 +24,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
