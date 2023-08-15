@@ -9,7 +9,8 @@
 - ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ---
 ## Get in touch!
-![Daniel Rodriguez Aires | LinkedIn](assets/icons/linkedin-48.svg "Title Text"){height=30px}[linkedin]
+
+[<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="assets/icons/linkedin-48.svg"/>][linkedin]
 
 ---
 ### Languages and Tools 🛠
