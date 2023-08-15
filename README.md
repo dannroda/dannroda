@@ -10,7 +10,7 @@
 ---
 ## Get in touch!
 
-[<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="assets/icons/linkedin-48.svg"/>][linkedin]
+<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="assets/icons/linkedin-48.svg"/>[linkedin]
 
 ---
 ### Languages and Tools 🛠
