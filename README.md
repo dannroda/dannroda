@@ -10,7 +10,7 @@
 ---
 ## Get in touch!
 
-<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="https://gitlab.com/dannroda/dannroda/-/raw/main/assets/icons/linkedin-48.svg?ref_type=heads"/>[linkedin]
+[<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="https://gitlab.com/dannroda/dannroda/-/raw/main/assets/icons/linkedin-48.svg?ref_type=heads"/>][linkedin]
 
 ---
 ### Languages and Tools 🛠
