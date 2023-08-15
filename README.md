@@ -9,7 +9,7 @@
 - ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ---
 ## Get in touch!
-[<img align="left" alt="Daniel Rodriguez Aires | LinkedIn" height="30px" src="./assets/icons/linkedin-48.svg"/>][linkedin]
+![Daniel Rodriguez Aires | LinkedIn](assets/icons/linkedin-48.svg "Title Text"){height=30px}[linkedin]
 
 ---
 ### Languages and Tools 🛠
@@ -39,8 +39,3 @@
 [website]: https://dann.com.ar
 [instagram]: https://www.instagram.com/danntheoperator
 [linkedin]: https://www.linkedin.com/in/daniel-rodriguez-aires/
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannroda&theme=github-dark-blue&mode=weekly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannroda&theme=github_dark)
-
