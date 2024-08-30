@@ -5,7 +5,7 @@
 - I have a decent experience with Godot 4, Photoshop, OBS Studio
 - Fun Fact: I've been maintaining WordPress Sites for 10+ years.
 - I spend more time creating tools/fixing bugs than games in Godot.
-
+- Learning Vim...
 ---
 ## Get in touch!
 
